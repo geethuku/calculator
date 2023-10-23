@@ -36,9 +36,6 @@ body{
 
 
 
-input[type=button]#equal{
-    height: 130px;
-}
 
 input[type=button] {
     height: 60px;
